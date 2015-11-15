@@ -1,0 +1,23 @@
+name: wongbryan
+favicon: null
+layout_spectrum: 0.634586681611836
+typography_spectrum: 0.004422238329425454
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7570781942922622
+  lightness: 0.39962428994476795
+  saturation: 0.9395385179668665
+  rhythmicContrast: 0.45221192110329866
+purpose: []
