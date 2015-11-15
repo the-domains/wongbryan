@@ -1,22 +1,22 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: "Couple's shoot at Toronto's Beaches Park on Queen East."
-datePublished: '2015-11-15T18:05:05.179Z'
-dateModified: '2015-11-15T18:04:00.305Z'
+datePublished: '2015-11-15T18:12:21.681Z'
+dateModified: '2015-11-15T18:08:30.835Z'
 title: Desmond and Emma
+sourcePath: _posts/2015-11-15-desmond-and-emma.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-15-desmond-and-emma.md
-published: true
 url: desmond-and-emma/index.html
 _type: Article
 
