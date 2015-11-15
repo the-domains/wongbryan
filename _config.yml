@@ -1,6 +1,6 @@
 name: wongbryan
 favicon: null
-layout_spectrum: 0.634586681611836
+layout_spectrum: 0.23847
 typography_spectrum: 0.004422238329425454
 title: Bryan Wong Photography
 cta:
@@ -17,7 +17,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.7570781942922622
+  brandStrength: 0.75
   lightness: 0.39962428994476795
   saturation: 0.9395385179668665
   rhythmicContrast: 0.45221192110329866
